@@ -30,15 +30,6 @@
         "http://*/*",
         "https://*/*"
       ],
-      "css": [
-        "src/inject/sweet-alert.css"
-      ]
-    },
-    {
-      "matches": [
-        "http://*/*",
-        "https://*/*"
-      ],
       "js": [
         "src/inject/inject.js"
       ]
